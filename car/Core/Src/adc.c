@@ -118,7 +118,7 @@ void HAL_ADC_MspDeInit(ADC_HandleTypeDef* adcHandle)
 }
 
 /* USER CODE BEGIN 1 */
-uint16_t ADC_IN_1(void) //ADC采集程序
+uint16_t ADC_IN_1(void) //ADC采集程序,用于烟雾传感器使用
 {
 	HAL_ADC_Start(&hadc1);//开始ADC采集
 	HAL_ADC_PollForConversion(&hadc1,500);//等待采集结束

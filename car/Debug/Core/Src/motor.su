@@ -1,0 +1,14 @@
+../Core/Src/motor.c:11:6:Motor_On	4	static
+../Core/Src/motor.c:17:6:Motor_Off	4	static
+../Core/Src/motor.c:22:6:Motor_stop	8	static
+../Core/Src/motor.c:31:6:Set_Speed	16	static
+../Core/Src/motor.c:80:6:Motor_SetSpeed	16	static
+../Core/Src/motor.c:85:6:L1	8	static
+../Core/Src/motor.c:89:6:L2	8	static
+../Core/Src/motor.c:93:6:L3	8	static
+../Core/Src/motor.c:97:6:R1	8	static
+../Core/Src/motor.c:101:6:R2	8	static
+../Core/Src/motor.c:105:6:R3	8	static
+../Core/Src/motor.c:109:6:track	8	static
+../Core/Src/motor.c:149:6:track1	8	static
+../Core/Src/motor.c:166:6:track2	8	static

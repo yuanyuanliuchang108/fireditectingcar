@@ -1,2 +1,3 @@
 # fireditectingcar
 电工实训用
+使用STM32CubeIDE进行import即可将此工程引入
